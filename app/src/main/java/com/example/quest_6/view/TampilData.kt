@@ -22,7 +22,7 @@ import androidx.compose.ui.text.font.FontFamily
 import androidx.compose.ui.text.font.FontWeight
 import androidx.compose.ui.unit.dp
 import androidx.compose.ui.unit.sp
-import com.example.navigationquest.R
+import com.example.quest_6.R
 
 @OptIn(ExperimentalMaterial3Api::class)
 @Composable
