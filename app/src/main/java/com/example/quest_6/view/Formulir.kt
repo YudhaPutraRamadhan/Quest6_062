@@ -31,8 +31,9 @@ import com.example.quest_6.R
 
 @Composable
 fun FormIsian(
-    jenisK:List<String> = listOf("Laki-Laki","Perempuan"),
-    OnSubmitBtnClick : () -> Unit
+    pilihanJK : List<String>,
+    OnSubmitBtnClick : (MutableList<String>) -> Unit,
+    modifier: Modifier = Modifier
 ){
     Scaffold (modifier= Modifier,
         {
