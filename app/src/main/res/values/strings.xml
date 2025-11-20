@@ -7,4 +7,6 @@
     <string name="alamat">ALAMAT</string>
     <string name="tampil">Tamilan Data</string>
     <string name="home">Form Isian</string>
+    <string name="laki">Laki-Laki</string>
+    <string name="perempuan">Perempuan</string>
 </resources>
